@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Mother's Finest
 image: /img/background-head.jpg
-heading: Great coffee with a conscience
+heading: Mother's Finest
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
