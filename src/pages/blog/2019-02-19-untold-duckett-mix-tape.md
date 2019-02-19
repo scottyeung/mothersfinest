@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: UNTOLD & DUCKETT MIX TAPE
+title: Untold & Duckett Tape
 date: 2019-02-19T15:31:00.000Z
 description: The next Mother's Finest tape is ready! 2 x 45 minutes of exclusive material.
 ---
